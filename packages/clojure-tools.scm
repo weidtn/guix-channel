@@ -14,7 +14,7 @@
 
 (package
   (name "clojure-tools")
-  (version "1.10.3.1040")
+  (version "1.11.1.1113")
   (source
    (origin
      (method url-fetch)
